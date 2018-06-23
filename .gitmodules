@@ -1,0 +1,4 @@
+[submodule "public/public"]
+	path = public/public
+	url = git@github.com:echosunstar/echosunstar.github.io.git
+	branch = master
